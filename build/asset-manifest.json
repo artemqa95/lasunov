@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lasunov/static/css/main.fe784804.chunk.css",
+    "main.js": "/lasunov/static/js/main.717d87af.chunk.js",
+    "main.js.map": "/lasunov/static/js/main.717d87af.chunk.js.map",
+    "runtime-main.js": "/lasunov/static/js/runtime-main.d5b78c99.js",
+    "runtime-main.js.map": "/lasunov/static/js/runtime-main.d5b78c99.js.map",
+    "static/js/2.6bc8b383.chunk.js": "/lasunov/static/js/2.6bc8b383.chunk.js",
+    "static/js/2.6bc8b383.chunk.js.map": "/lasunov/static/js/2.6bc8b383.chunk.js.map",
+    "static/js/3.e616b726.chunk.js": "/lasunov/static/js/3.e616b726.chunk.js",
+    "static/js/3.e616b726.chunk.js.map": "/lasunov/static/js/3.e616b726.chunk.js.map",
+    "index.html": "/lasunov/index.html",
+    "static/css/main.fe784804.chunk.css.map": "/lasunov/static/css/main.fe784804.chunk.css.map",
+    "static/js/2.6bc8b383.chunk.js.LICENSE.txt": "/lasunov/static/js/2.6bc8b383.chunk.js.LICENSE.txt",
+    "static/media/logo.4571b7b9.png": "/lasunov/static/media/logo.4571b7b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b78c99.js",
+    "static/js/2.6bc8b383.chunk.js",
+    "static/css/main.fe784804.chunk.css",
+    "static/js/main.717d87af.chunk.js"
+  ]
+}
