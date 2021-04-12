@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lasunov/react-maze/static/css/main.fe784804.chunk.css",
+    "main.js": "/lasunov/react-maze/static/js/main.717d87af.chunk.js",
+    "main.js.map": "/lasunov/react-maze/static/js/main.717d87af.chunk.js.map",
+    "runtime-main.js": "/lasunov/react-maze/static/js/runtime-main.da84bc0d.js",
+    "runtime-main.js.map": "/lasunov/react-maze/static/js/runtime-main.da84bc0d.js.map",
+    "static/js/2.6bc8b383.chunk.js": "/lasunov/react-maze/static/js/2.6bc8b383.chunk.js",
+    "static/js/2.6bc8b383.chunk.js.map": "/lasunov/react-maze/static/js/2.6bc8b383.chunk.js.map",
+    "static/js/3.e616b726.chunk.js": "/lasunov/react-maze/static/js/3.e616b726.chunk.js",
+    "static/js/3.e616b726.chunk.js.map": "/lasunov/react-maze/static/js/3.e616b726.chunk.js.map",
+    "index.html": "/lasunov/react-maze/index.html",
+    "static/css/main.fe784804.chunk.css.map": "/lasunov/react-maze/static/css/main.fe784804.chunk.css.map",
+    "static/js/2.6bc8b383.chunk.js.LICENSE.txt": "/lasunov/react-maze/static/js/2.6bc8b383.chunk.js.LICENSE.txt",
+    "static/media/logo.4571b7b9.png": "/lasunov/react-maze/static/media/logo.4571b7b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da84bc0d.js",
+    "static/js/2.6bc8b383.chunk.js",
+    "static/css/main.fe784804.chunk.css",
+    "static/js/main.717d87af.chunk.js"
+  ]
+}
