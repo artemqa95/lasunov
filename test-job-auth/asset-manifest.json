@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lasunov/test-job-auth/static/css/main.7baa2bf8.chunk.css",
+    "main.js": "/lasunov/test-job-auth/static/js/main.72fda49f.chunk.js",
+    "main.js.map": "/lasunov/test-job-auth/static/js/main.72fda49f.chunk.js.map",
+    "runtime-main.js": "/lasunov/test-job-auth/static/js/runtime-main.0e64f37d.js",
+    "runtime-main.js.map": "/lasunov/test-job-auth/static/js/runtime-main.0e64f37d.js.map",
+    "static/js/2.7d38b8d0.chunk.js": "/lasunov/test-job-auth/static/js/2.7d38b8d0.chunk.js",
+    "static/js/2.7d38b8d0.chunk.js.map": "/lasunov/test-job-auth/static/js/2.7d38b8d0.chunk.js.map",
+    "index.html": "/lasunov/test-job-auth/index.html",
+    "static/css/main.7baa2bf8.chunk.css.map": "/lasunov/test-job-auth/static/css/main.7baa2bf8.chunk.css.map",
+    "static/js/2.7d38b8d0.chunk.js.LICENSE.txt": "/lasunov/test-job-auth/static/js/2.7d38b8d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e64f37d.js",
+    "static/js/2.7d38b8d0.chunk.js",
+    "static/css/main.7baa2bf8.chunk.css",
+    "static/js/main.72fda49f.chunk.js"
+  ]
+}
