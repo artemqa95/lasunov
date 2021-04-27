@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lasunov/react-maze/static/css/main.c5a9fd81.chunk.css",
+    "main.js": "/lasunov/react-maze/static/js/main.0bd5d438.chunk.js",
+    "main.js.map": "/lasunov/react-maze/static/js/main.0bd5d438.chunk.js.map",
+    "runtime-main.js": "/lasunov/react-maze/static/js/runtime-main.c980e107.js",
+    "runtime-main.js.map": "/lasunov/react-maze/static/js/runtime-main.c980e107.js.map",
+    "static/js/2.30ee0684.chunk.js": "/lasunov/react-maze/static/js/2.30ee0684.chunk.js",
+    "static/js/2.30ee0684.chunk.js.map": "/lasunov/react-maze/static/js/2.30ee0684.chunk.js.map",
+    "index.html": "/lasunov/react-maze/index.html",
+    "static/css/main.c5a9fd81.chunk.css.map": "/lasunov/react-maze/static/css/main.c5a9fd81.chunk.css.map",
+    "static/js/2.30ee0684.chunk.js.LICENSE.txt": "/lasunov/react-maze/static/js/2.30ee0684.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c980e107.js",
+    "static/js/2.30ee0684.chunk.js",
+    "static/css/main.c5a9fd81.chunk.css",
+    "static/js/main.0bd5d438.chunk.js"
+  ]
+}
