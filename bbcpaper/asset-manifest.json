@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lasunov/bbcpaper/static/css/main.11d138d1.chunk.css",
+    "main.js": "/lasunov/bbcpaper/static/js/main.3cc8816c.chunk.js",
+    "main.js.map": "/lasunov/bbcpaper/static/js/main.3cc8816c.chunk.js.map",
+    "runtime-main.js": "/lasunov/bbcpaper/static/js/runtime-main.72e845e9.js",
+    "runtime-main.js.map": "/lasunov/bbcpaper/static/js/runtime-main.72e845e9.js.map",
+    "static/js/2.b2e77ec6.chunk.js": "/lasunov/bbcpaper/static/js/2.b2e77ec6.chunk.js",
+    "static/js/2.b2e77ec6.chunk.js.map": "/lasunov/bbcpaper/static/js/2.b2e77ec6.chunk.js.map",
+    "index.html": "/lasunov/bbcpaper/index.html",
+    "static/css/main.11d138d1.chunk.css.map": "/lasunov/bbcpaper/static/css/main.11d138d1.chunk.css.map",
+    "static/js/2.b2e77ec6.chunk.js.LICENSE.txt": "/lasunov/bbcpaper/static/js/2.b2e77ec6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e845e9.js",
+    "static/js/2.b2e77ec6.chunk.js",
+    "static/css/main.11d138d1.chunk.css",
+    "static/js/main.3cc8816c.chunk.js"
+  ]
+}
